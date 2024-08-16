@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Rust Solidity & Contract Dev**
 
-- 👨‍💻 All of my projects are available at [zielonanoir.github.io](zielonanoir.github.io)
+- 👨‍💻 All of my projects are available at [zielonanoir.github.io](Zielonanoir.github.io)
+
+[![ZielonaNoir's GitHub | Languages Over Time](https://stats.quira.sh/ZielonaNoir/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir)
+[![ZielonaNoir's GitHub | Stats](https://stats.quira.sh/ZielonaNoir/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +22,4 @@
 <p><a href="https://www.buymeacoffee.com/https://zielonanoir.github.io/admiration/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://zielonanoir.github.io/admiration/" /></a></p><br><br>
 
 
-[![ZielonaNoir's GitHub | Stats](https://stats.quira.sh/ZielonaNoir/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir)
 
-[![ZielonaNoir's GitHub | Languages Over Time](https://stats.quira.sh/ZielonaNoir/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir)
