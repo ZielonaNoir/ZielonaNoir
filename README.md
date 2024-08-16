@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust Solidity & Contract Dev**
 
-- 👨‍💻 All of my projects are available at [zielonanoir.github.io](Zielonanoir.github.io)
+- 👨‍💻 All of my projects are available at [Zielonanoir.github.io](Zielonanoir.github.io)
 
 [![ZielonaNoir's GitHub | Languages Over Time](https://stats.quira.sh/ZielonaNoir/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir) 
 
