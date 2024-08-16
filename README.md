@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **ZielonaNoir/ZielonaNoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![ZielonaNoir's GitHub | Stats](https://stats.quira.sh/ZielonaNoir/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir)
+
+[![ZielonaNoir's GitHub | Languages Over Time](https://stats.quira.sh/ZielonaNoir/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZielonaNoir)
