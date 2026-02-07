@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZielonaNoir</h1>
-<h3 align="center">A frontend & Internet Security developer from China</h3>
+<h3 align="center">A FullStack & AI developer from China</h3>
 
 - 🔭 I’m currently working on **Logicalis**
 
